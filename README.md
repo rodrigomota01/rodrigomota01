@@ -22,11 +22,13 @@
  <!-- 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomota01&layout=compact)](https://github.com/rodrigomota01)
 -->
+  <!--
 <div>
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/G9GPg5SA751111" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:roguitymsn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigomotasousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+-->
  
   ![Snake animation](https://github.com/rodrigomota01/rodrigomota01/blob/output/github-contribution-grid-snake.svg)
  
