@@ -1,7 +1,7 @@
 ### Olá! Eu sou Rodrigo Mota 
 
 - 🔭 Atualmente trabalhando com Infraestrutura
-- 🌱 Estudando AWS/Python/React Native/
+- 🌱 Estudando AWS/Python/Go
 - 📩 Contate-me no Email: roguitymsn@gmail.com
 
 <div>
