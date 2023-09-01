@@ -2,7 +2,7 @@
 
 - 🔭 Devops
 - 🌱 AWS/Python/Ansible/kubernetes/
-- 📩 Contate-me no Email: roguitymsn@gmail.com
+- 📩 Email: roguitymsn@gmail.com
 
 <div>
   <a href="https://github.com/rodrigomota01">
