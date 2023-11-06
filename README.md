@@ -1,7 +1,7 @@
 ### Olá! Eu sou Rodrigo Mota 
 
 - 🔭 Devops
-- 🌱 AWS/Python/Ansible/kubernetes/
+- 🌱 AWS/Ansible/kubernetes/
 - 📩 Email: roguitymsn@gmail.com
 
 <div>
